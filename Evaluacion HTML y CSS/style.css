@@ -9,6 +9,7 @@
 
 .header{
     background-color: rgb(55, 153, 219);
+    color: white;
 }
 
 .main{
@@ -49,7 +50,7 @@
     
 }
 
-.table-style {
+.tableStyle {
     border: 30px solid black;
     border-collapse: collapse;
 }
